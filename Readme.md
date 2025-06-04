@@ -336,7 +336,7 @@ Greater Sudbury, Ontario, Canada
 
 📧 **Email**: b.patel.physics@gmail.com  
 🔗 **ORCID**: [0009-0004-5429-2771](https://orcid.org/0009-0004-5429-2771)  
-🐙 **GitHub**: [your-username](https://github.com/bhargavpatel431997)   
+🐙 **GitHub**: [Bhargav Patel](https://github.com/bhargavpatel431997)   
 
 ### Research Interests
 - Quantum computing optimization
