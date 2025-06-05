@@ -269,13 +269,6 @@ We're seeking collaborations with:
 
 If you use this work in your research, please cite:
 
-```bibtex
-@article{patel2024magic,
-  title={Magic Coefficients in Quantum Computing: Experimental Verification of Algebraic Emergence Theory},
-  author={Patel, Bhargav},
-}
-```
-
 ## 📚 Related Work
 
 ### Original Theory
